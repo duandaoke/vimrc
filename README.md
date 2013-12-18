@@ -1,3 +1,9 @@
+This is awesome vimrc,but for chinese,the menu dose not display in right way.
+So  I made a little change,Just a little.
+
+Thanks 
+
+
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
